@@ -9,7 +9,7 @@
             "email": "muyaedward@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
     "php": ">=5.3.0",
     "ext-soap": "*",
